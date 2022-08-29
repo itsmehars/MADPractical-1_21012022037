@@ -1,14 +1,14 @@
 # MADPractical-1_21012022037
 ![Screenshot (3)](https://user-images.githubusercontent.com/110801512/183340713-8c5909b7-18c4-4fdf-8cf1-830413678646.png)
 
-1.1 Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
-![Screenshot (32)](https://user-images.githubusercontent.com/110801512/183867004-8b997bb6-ca95-4e1e-98e7-05cad2c84db2.png)
-
 1.2 Type conversion:
 Integer to Double, String to Integer, String to Double.
-![Screenshot (33)](https://user-images.githubusercontent.com/110801512/183867721-87a5ed35-8dbf-47d9-80e2-0e2e88076023.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/110801512/183867004-8b997bb6-ca95-4e1e-98e7-05cad2c84db2.png)
 
 1.3 Scan student’s information and display all the data.
+![Screenshot (33)](https://user-images.githubusercontent.com/110801512/183867721-87a5ed35-8dbf-47d9-80e2-0e2e88076023.png)
+
+
 ![Screenshot (30)](https://user-images.githubusercontent.com/110801512/183859416-81e47417-1da1-4b05-b4b9-98d8ceae567d.png)
 
 1.4 Find the number is odd or even by using Control Flow inside println() method.
